@@ -64,6 +64,5 @@ Built a dynamic event registration platform for AadVitya college fest under Micr
 - 📧 Email: tishaamahato10@gmail.com
 - 💡 GFG Profile: [tishamahato183](https://www.geeksforgeeks.org/user/tishamahato183/)
 
----
 
-> “Code is not just code, it’s your voice to the digital world.” – Tisha Mahato
+ “Code is not just code, it’s your voice to the digital world.” – Tisha Mahato
